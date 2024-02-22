@@ -1,0 +1,1 @@
+This is just a small Lethal Company modpack for friends on doonguy's private discord server.
