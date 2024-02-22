@@ -1,7 +1,7 @@
 {
   "name": "LethalDoonpany",
-  "version_number": "1.0.0",
-  "website_url": "",
+  "version_number": "1.0.1",
+  "website_url": "https://github.com/doonguy/LethalDoonpany",
   "description": "DoonFi Lethal Company modpack by doonguy",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
